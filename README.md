@@ -8,4 +8,5 @@ Collection of courses' assignments/projects taken in Computer Science online cou
 05 - Programming Languages, Part A [(Coursera)](https://www.coursera.org/learn/programming-languages) <br>
 06 - Programming Languages, Part B [(Coursera)](https://www.coursera.org/learn/programming-languages-part-b) <br>
 07 - Programming Languages, Part C [(Coursera)](https://www.coursera.org/learn/programming-languages-part-c) <br>
+08 - Object Oriented Programming in Java Specialization [(Coursera)](https://www.coursera.org/specializations/object-oriented-programming). <br>
 
