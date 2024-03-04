@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BatchImageConversion
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeGray(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ testMakeGray()
+comment3.params=img\ fname\ modifType
+comment3.target=void\ doSave(edu.duke.ImageResource,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ batchGrayscale()
+comment5.params=inImage
+comment5.target=edu.duke.ImageResource\ makeInvert(edu.duke.ImageResource)
+comment6.params=
+comment6.target=void\ batchInvert()
+numComments=7
