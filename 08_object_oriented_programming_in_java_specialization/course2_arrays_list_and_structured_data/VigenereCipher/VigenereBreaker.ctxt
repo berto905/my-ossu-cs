@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=VigenereBreaker
+comment1.params=message\ whichSlice\ totalSlices
+comment1.target=java.lang.String\ sliceString(java.lang.String,\ int,\ int)
+comment2.params=encrypted\ klength\ mostCommon
+comment2.target=int[]\ tryKeyLength(java.lang.String,\ int,\ char)
+comment3.params=fr
+comment3.target=java.util.HashSet\ readDictionary(edu.duke.FileResource)
+comment4.params=message\ dictionary
+comment4.target=int\ countWords(java.lang.String,\ java.util.HashSet)
+comment5.params=countMap
+comment5.target=char\ mostCommon(java.util.HashMap)
+comment6.params=dictionary
+comment6.target=char\ mostCommonCharIn(java.util.HashSet)
+comment7.params=encrypted\ dictionary
+comment7.target=java.lang.String\ breakForLanguage(java.lang.String,\ java.util.HashSet)
+comment8.params=encrypted\ languages
+comment8.target=java.lang.String\ breakForAllLangs(java.lang.String,\ java.util.HashMap)
+comment9.params=
+comment9.target=void\ breakVigenere()
+numComments=10

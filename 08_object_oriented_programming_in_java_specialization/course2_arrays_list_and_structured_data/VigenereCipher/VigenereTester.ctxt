@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=VigenereTester
+comment1.params=
+comment1.target=void\ testVigenereCipher()
+comment2.params=
+comment2.target=void\ testSliceString()
+comment3.params=
+comment3.target=void\ testTryKeyLength()
+comment4.params=
+comment4.target=void\ testBreakVigenere()
+comment5.params=
+comment5.target=void\ testReadDictionary()
+comment6.params=
+comment6.target=void\ testCountWords()
+comment7.params=
+comment7.target=void\ testBreakForLanguage()
+comment8.params=
+comment8.target=void\ testMostCommonChar()
+comment9.params=
+comment9.target=void\ testBreakForAllLangs()
+numComments=10

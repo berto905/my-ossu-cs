@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CaesarTester
+comment1.params=
+comment1.target=void\ testTransformLetter()
+comment2.params=
+comment2.target=void\ testTransformText()
+comment3.params=
+comment3.target=void\ testCaesarBreakerEng()
+comment4.params=
+comment4.target=void\ testCaesarBreakerOthers()
+numComments=5
